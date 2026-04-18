@@ -1,4 +1,8 @@
 # HousePricePrediction
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 📌 Overview
 This project aims to predict house prices using machine learning techniques based on features like area, number of rooms, and other property-related factors. It helps in understanding real estate trends and supports better decision-making.
 
@@ -42,3 +46,21 @@ Install dependencies:
 pip install -r requirements.txt
 Run the notebook:
 jupyter notebook
+
+✨ Key Insights
+Houses with larger area have higher prices
+Overall quality strongly impacts price
+Location-based features play a major role
+🧪 Sample Prediction
+
+Example output from the model:
+
+Predicted Price: 185000
+Predicted Price: 220000
+
+⭐ Highlights
+End-to-end ML pipeline
+Clean data preprocessing
+Multiple model comparison
+Real-world dataset
+
